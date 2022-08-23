@@ -6,7 +6,7 @@
 #E46B3F
 #C4402A
 */
-.logo {
+/*.logo {
   display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -16,7 +16,7 @@
   width: 500px;
   height: 500px;
   background-color: #292a44;
-}
+}*/
 header {
   display: flex;
   justify-content: center;
@@ -45,4 +45,18 @@ body {
   font-size: 48px;
   color: #c4402a;
   text-align: center;
+}
+#RM {
+  font-family: "Secular One", sans-serif;
+  font-size: 100px;
+  color: #c4402a;
+  text-align: center;
+  padding: 0;
+}
+#WD {
+  font-family: "Secular One", sans-serif;
+  font-size: 28px;
+  color: #c4402a;
+  text-align: center;
+  padding: 0;
 }
